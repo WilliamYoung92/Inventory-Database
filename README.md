@@ -6,7 +6,7 @@ My role in this team project on Github was to create the following pages:
   - Edit part in Inventory
   - Create a kit of many parts
   - Pull a report of parts in the database.
-  -Page Template
+  and Page Template
   
 Working URL: http://lamp.cse.fau.edu/~CEN4010_S2018g03/FAUOWLS/Test2/Add_Part6.php
 
