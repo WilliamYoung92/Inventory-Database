@@ -9,7 +9,7 @@ My role in this team project on Github was to create the following pages:
   
 Working URL: http://lamp.cse.fau.edu/~CEN4010_S2018g03/FAUOWLS/Test2/Add_Part6.php
 
-What still need to be worked on
+What still need to be worked on and may have been assigned to other team members:
   - Login credetionals for user, staff and admin
   - more reports for the client, vendor, and staff.
   - add the staff and admin account pages/abilities.
